@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: e8d3572b2aff61c4abb7da6436d0c8b4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8005840388879000674
+    second: Carroceria|CameraAction
+  - first:
+      74: 7485466868711463622
+    second: Carroceria|Cube.006Action.001
+  - first:
+      74: 4570050403084501967
+    second: Carroceria|Cube.007Action
+  - first:
+      74: 1652547113659395859
+    second: Carroceria|CubeAction
+  - first:
+      74: 3821611742110805104
+    second: Carroceria|LightAction
+  - first:
+      74: 699620515539485700
+    second: Carroceria|Luz blancaAction
+  - first:
+      74: -8355015870588916913
+    second: Carroceria|Luz rojaAction
+  - first:
+      74: -3773414618473410098
+    second: Carroceria|Luz rosaAction
+  - first:
+      74: 935724009275133575
+    second: Carroceria|Luz verdeAction
+  - first:
+      74: -7041038476524581733
+    second: Carroceria|Matricula delantera.001Action
+  - first:
+      74: -396199455782638630
+    second: Carroceria|Matricula traseraAction
+  - first:
+      74: -1281879328128588335
+    second: Carroceria|Rueda atrasAction
+  - first:
+      74: -3679592168041991998
+    second: Carroceria|Rueda delanteAction
+  - first:
+      74: 6277594027071105618
+    second: Carroceria|VolanteAction
+  - first:
+      74: -5584708805718651583
+    second: Rueda atras|CameraAction
+  - first:
+      74: -5712167888615717841
+    second: Rueda atras|Cube.006Action.001
+  - first:
+      74: 4682249402854148674
+    second: Rueda atras|Cube.007Action
+  - first:
+      74: -856989016286452445
+    second: Rueda atras|CubeAction
+  - first:
+      74: -13207621021162383
+    second: Rueda atras|LightAction
+  - first:
+      74: -5027516862210527611
+    second: Rueda atras|Luz blancaAction
+  - first:
+      74: -9022294538600252899
+    second: Rueda atras|Luz rojaAction
+  - first:
+      74: 2589655139384346469
+    second: Rueda atras|Luz rosaAction
+  - first:
+      74: -8734332620234775151
+    second: Rueda atras|Luz verdeAction
+  - first:
+      74: -5125588932718658053
+    second: Rueda atras|Matricula delantera.001Action
+  - first:
+      74: 4504418742115860131
+    second: Rueda atras|Matricula traseraAction
+  - first:
+      74: 2898717879235838849
+    second: Rueda atras|Rueda atrasAction
+  - first:
+      74: 8828209002939617449
+    second: Rueda atras|Rueda delanteAction
+  - first:
+      74: -4733376451723739234
+    second: Rueda atras|VolanteAction
+  - first:
+      74: -1296784717911815975
+    second: Rueda delante|CameraAction
+  - first:
+      74: 3663813985839707212
+    second: Rueda delante|Cube.006Action.001
+  - first:
+      74: 751090279222718959
+    second: Rueda delante|Cube.007Action
+  - first:
+      74: -6188332210657441323
+    second: Rueda delante|CubeAction
+  - first:
+      74: -8923899554531828352
+    second: Rueda delante|LightAction
+  - first:
+      74: 7941614719202963987
+    second: Rueda delante|Luz blancaAction
+  - first:
+      74: 5577305575997459823
+    second: Rueda delante|Luz rojaAction
+  - first:
+      74: -763784204531473047
+    second: Rueda delante|Luz rosaAction
+  - first:
+      74: -7399609624860606865
+    second: Rueda delante|Luz verdeAction
+  - first:
+      74: 210715585721155394
+    second: Rueda delante|Matricula delantera.001Action
+  - first:
+      74: -3974963100731543406
+    second: Rueda delante|Matricula traseraAction
+  - first:
+      74: -7361337200715101764
+    second: Rueda delante|Rueda atrasAction
+  - first:
+      74: -1918708175826230209
+    second: Rueda delante|Rueda delanteAction
+  - first:
+      74: 7880337452991797235
+    second: Rueda delante|VolanteAction
+  - first:
+      74: 3941111494565984658
+    second: Cube.006|CameraAction
+  - first:
+      74: -695571545634295498
+    second: Cube.006|Cube.006Action.001
+  - first:
+      74: 6426517205468490920
+    second: Cube.006|Cube.007Action
+  - first:
+      74: -4993669938721806402
+    second: Cube.006|CubeAction
+  - first:
+      74: -2869643986917320813
+    second: Cube.006|LightAction
+  - first:
+      74: 3445992540886177672
+    second: Cube.006|Luz blancaAction
+  - first:
+      74: -1427327757587816968
+    second: Cube.006|Luz rojaAction
+  - first:
+      74: -6254514896075782819
+    second: Cube.006|Luz rosaAction
+  - first:
+      74: -971645723727662486
+    second: Cube.006|Luz verdeAction
+  - first:
+      74: -7192833598615484724
+    second: Cube.006|Matricula delantera.001Action
+  - first:
+      74: 1421873030722525733
+    second: Cube.006|Matricula traseraAction
+  - first:
+      74: -2497456879567018129
+    second: Cube.006|Rueda atrasAction
+  - first:
+      74: 304358209159779020
+    second: Cube.006|Rueda delanteAction
+  - first:
+      74: -5129492353157068096
+    second: Cube.006|VolanteAction
+  - first:
+      74: 6501896623945118443
+    second: Volante|CameraAction
+  - first:
+      74: -2433250333783229393
+    second: Volante|Cube.006Action.001
+  - first:
+      74: 7051456140563837985
+    second: Volante|Cube.007Action
+  - first:
+      74: -7438987006227195531
+    second: Volante|CubeAction
+  - first:
+      74: -9146365345654123641
+    second: Volante|LightAction
+  - first:
+      74: 5360558615133631649
+    second: Volante|Luz blancaAction
+  - first:
+      74: -3358661721639576394
+    second: Volante|Luz rojaAction
+  - first:
+      74: -6375645425315571962
+    second: Volante|Luz rosaAction
+  - first:
+      74: -4171323671684839873
+    second: Volante|Luz verdeAction
+  - first:
+      74: 200451559532260293
+    second: Volante|Matricula delantera.001Action
+  - first:
+      74: 9202234254309775106
+    second: Volante|Matricula traseraAction
+  - first:
+      74: -5774974309639632451
+    second: Volante|Rueda atrasAction
+  - first:
+      74: 2990866184488722424
+    second: Volante|Rueda delanteAction
+  - first:
+      74: -7785945240735734020
+    second: Volante|VolanteAction
+  - first:
+      74: 2931014490820840038
+    second: Matricula delantera.001|CameraAction
+  - first:
+      74: -362996153604464174
+    second: Matricula delantera.001|Cube.006Action.001
+  - first:
+      74: -3924638349899815579
+    second: Matricula delantera.001|Cube.007Action
+  - first:
+      74: 4466120821429893903
+    second: Matricula delantera.001|CubeAction
+  - first:
+      74: 3226308959663305362
+    second: Matricula delantera.001|LightAction
+  - first:
+      74: 4367180373851529518
+    second: Matricula delantera.001|Luz blancaAction
+  - first:
+      74: -3207604079587122067
+    second: Matricula delantera.001|Luz rojaAction
+  - first:
+      74: -4031658808473415512
+    second: Matricula delantera.001|Luz rosaAction
+  - first:
+      74: 7570218894434406897
+    second: Matricula delantera.001|Luz verdeAction
+  - first:
+      74: -6611448259283802464
+    second: Matricula delantera.001|Matricula delantera.001Action
+  - first:
+      74: -2903842421444202709
+    second: Matricula delantera.001|Matricula traseraAction
+  - first:
+      74: 912167056451681309
+    second: Matricula delantera.001|Rueda atrasAction
+  - first:
+      74: 1459602629870483354
+    second: Matricula delantera.001|Rueda delanteAction
+  - first:
+      74: 969208836978594322
+    second: Matricula delantera.001|VolanteAction
+  - first:
+      74: 2661953228666419322
+    second: Matricula trasera|CameraAction
+  - first:
+      74: 6222973377634672542
+    second: Matricula trasera|Cube.006Action.001
+  - first:
+      74: -890037060095889409
+    second: Matricula trasera|Cube.007Action
+  - first:
+      74: -4352115988208230324
+    second: Matricula trasera|CubeAction
+  - first:
+      74: 864225977204417258
+    second: Matricula trasera|LightAction
+  - first:
+      74: -7211708247998418135
+    second: Matricula trasera|Luz blancaAction
+  - first:
+      74: 4701795969686662001
+    second: Matricula trasera|Luz rojaAction
+  - first:
+      74: -105190958125848834
+    second: Matricula trasera|Luz rosaAction
+  - first:
+      74: 5711976154576234292
+    second: Matricula trasera|Luz verdeAction
+  - first:
+      74: 4000820150500147647
+    second: Matricula trasera|Matricula delantera.001Action
+  - first:
+      74: 2136614849192832861
+    second: Matricula trasera|Matricula traseraAction
+  - first:
+      74: -3218397869026921319
+    second: Matricula trasera|Rueda atrasAction
+  - first:
+      74: -8624409445667356846
+    second: Matricula trasera|Rueda delanteAction
+  - first:
+      74: -3012230005500768659
+    second: Matricula trasera|VolanteAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo
+    second: {fileID: 2100000, guid: dc03216220cb073429c373b6f4fbed75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul
+    second: {fileID: 2100000, guid: 8345828ce1e50f246affcfe0db92218f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Carrocer\xEDa"
+    second: {fileID: 2100000, guid: d0ea0d5869f5dc6468e17397769c4973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cristales
+    second: {fileID: 2100000, guid: 749bf8e572cf77a42afd9e01d69d4974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Faros
+    second: {fileID: 2100000, guid: 8cb4269128240924a90dcd45ce7e6751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luces
+    second: {fileID: 2100000, guid: ef83eec70af07fb468e59d496873a133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro
+    second: {fileID: 2100000, guid: 6f17dd6f92969b7418b7043a4f9ebb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plata
+    second: {fileID: 2100000, guid: 0f25f85c817d6734d9a5ba9356324e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo
+    second: {fileID: 2100000, guid: 6e34f2254c611b3438d21f6e8a47c4b0, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Carroceria|CubeAction
+      takeName: Carroceria|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rueda atras|Rueda atrasAction
+      takeName: Rueda atras|Rueda atrasAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Matricula trasera|CubeAction
+      takeName: Matricula trasera|CubeAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rueda delante|Rueda delanteAction
+      takeName: Rueda delante|Rueda delanteAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
