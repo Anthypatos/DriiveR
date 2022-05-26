@@ -43,7 +43,7 @@ public class MovableObject : MonoBehaviour
         {
             case 4: 
             case 7:
-                fSpeed *= 2; 
+                fSpeed += 50; 
                 break;
             default: break;
         }
