@@ -7,6 +7,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SoundControl : MonoBehaviour
 {
@@ -20,5 +21,15 @@ public class SoundControl : MonoBehaviour
             DontDestroyOnLoad(gameObject);
         }
         else Destroy(gameObject);
+    }
+
+    private void Update() 
+    {
+        // En estas 2 escenas no queremos música
+        if (SceneManager.GetActiveScene().name == "Jugar" ||
+            SceneManager.GetActiveScene().name == "Creditos")
+        {
+            Destroy(gameObject);
+        }
     }
 }
