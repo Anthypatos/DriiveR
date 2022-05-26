@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Archivo de puntuaciones
+[Aa]ssets/puntuaciones.txt
