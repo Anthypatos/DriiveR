@@ -1,3 +1,10 @@
+/*
+    Script para el control de voz del menú de puntuaciones
+    (Posteriormente usado en otras escenas, debería cambiarle el nombre)
+
+    Autor: Juan de la Cruz Caravaca Guerrero (@Anthypatos/@Quadraxisv2)
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,6 +21,7 @@ public class VoicePuntuaciones : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Acción de volver al menú principal
         actions.Add("atrás", Atras);
 
         keywordRecognizer = new KeywordRecognizer(actions.Keys.ToArray());

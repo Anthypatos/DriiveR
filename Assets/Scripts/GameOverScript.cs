@@ -1,3 +1,9 @@
+/*
+    Script para la escena de GameOver
+
+    Autor: Juan de la Cruz Caravaca Guerrero (@Anthypatos/@Quadraxisv2)
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,8 +15,10 @@ public class GameOverScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int iPuntuacion = PlayerPrefs.GetInt("Puntuacion");
-        GetComponent<TextMeshProUGUI>().text += iPuntuacion.ToString();
+        int iPuntuacion = PlayerPrefs.GetInt("Puntuacion"); // Obtener última puntuación
+        GetComponent<TextMeshProUGUI>().text += iPuntuacion.ToString(); // Mostrarla por pantalla
+
+        // Guardar la puntuación en almacenamiento persistente
         File.AppendAllText(Application.dataPath + "/puntuaciones.txt", iPuntuacion.ToString() + "\n");
     }
 
