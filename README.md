@@ -1,9 +1,5 @@
 # DriiveR
-La documentación de este proyecto en formato Latex puede encontrarse [aquí](https://github.com/Anthypatos/DriiveR/blob/main/DriiveR.pdf).
-
-Y la documentación en formato Wiki puede encontrarse [aquí](https://github.com/Anthypatos/DriiveR/wiki).
-
-La presentación en formato Powerpoint puede encontrarse [aquí](https://github.com/Anthypatos/DriiveR/blob/main/DriiveR.pptx).
+La documentación en formato Wiki puede encontrarse [aquí](https://github.com/Anthypatos/DriiveR/wiki).
 
 ![Unity_Technologies_logo](https://user-images.githubusercontent.com/65747773/170501615-b97ac797-8b79-458a-af2d-a9c2e63129df.png)
 
